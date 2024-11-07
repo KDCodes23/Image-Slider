@@ -1,7 +1,3 @@
-Here’s a README entry for your Image Carousel project, following a similar structure and tone as before:
-
----
-
 ## 🎠 Simple Image Carousel Project
 
 Welcome to the **Simple Image Carousel**! This project is part of a journey to build practical web applications using **HTML5**, **CSS3**, and **JavaScript**. The carousel lets users navigate through a set of images, either manually using the **Previous** and **Next** buttons or automatically with an optional auto-slide feature.
@@ -20,8 +16,8 @@ For today’s project, I built an image carousel to learn more about JavaScript 
 **Description**:  
 The Image Carousel is an interactive component that displays a series of images. Users can cycle through images manually with buttons or automatically with an auto-slide feature. This project demonstrates key JavaScript concepts like updating the DOM, handling events, and using CSS for smooth animations.
 
-**HIstory**
-1. 07/11/24 - Creation of the project and it's files /folder. Next Goal: Add a functioning pervious button.
+**History**
+1. 07/11/24 - Creation of the project and its files /folder. Next Goal: Add a functioning previous button.
 ---
 
 ### Key Features
